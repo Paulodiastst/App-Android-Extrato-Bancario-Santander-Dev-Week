@@ -24,6 +24,11 @@
 <br>
 <br>
 
+<h2> 🚀 Resultado </h2>
+
+https://user-images.githubusercontent.com/79487813/169674646-9c684f66-97c8-43c5-a338-bc75778b04ae.mp4
+
+
 <div id="objetivo">
 <h2> 💡 Objetivo </h2>
 Construir um sistema de ciação de extratos bancários do Banco Santander, usando uma arquitetura robusta e testável, desde o frontend até o lado do servidor, envolvendo inclusive um aplicativo para Android.
